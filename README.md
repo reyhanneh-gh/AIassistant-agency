@@ -40,7 +40,7 @@ This landing page was developed as part of my journey into responsive web design
       <img src="<table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github.com/user-attachments/assets/your-desktop-screenshot-id" alt="Desktop View" width="100%" />
+      <img src="https://github.com/user-attachments/assets/70176e13-b76f-42bd-8dce-a5228112148f" alt="Desktop View" width="100%" />
     </td>
     <td width="25%" valign="top">
       <img src="https://github.com/user-attachments/assets/345698c1-2dfc-41a3-a10c-6597ae9957e8" alt="Mobile View – Top" width="100%" />
