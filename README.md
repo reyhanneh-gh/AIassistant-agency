@@ -49,13 +49,3 @@ This landing page was developed as part of my journey into responsive web design
       <img src="https://github.com/user-attachments/assets/ac048965-614b-48bd-928b-f2e409aa8c6f" alt="Mobile View – Bottom" width="100%" />
     </td>
   </tr>
-</table>" alt="Desktop View" width="100%" />
-    </td>
-    <td width="25%" valign="top">
-      <img src="https://github.com/user-attachments/assets/your-mobile-screenshot-1-id" alt="Mobile View – Top" width="100%" />
-    </td>
-    <td width="25%" valign="top">
-      <img src="https://github.com/user-attachments/assets/your-mobile-screenshot-2-id" alt="Mobile View – Bottom" width="100%" />
-    </td>
-  </tr>
-</table>
