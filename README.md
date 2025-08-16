@@ -36,14 +36,26 @@ This landing page was developed as part of my journey into responsive web design
 
 <table>
   <tr>
-    <td width="70%" valign="top">
-      <img src="https://github.com/user-attachments/assets/3cf3daa7-ebda-4b1b-a44d-58ac577aa625" alt="Desktop View" width="100%" />
+    <td width="50%" valign="top">
+      <img src="<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github.com/user-attachments/assets/your-desktop-screenshot-id" alt="Desktop View" width="100%" />
     </td>
-    <td width="30%" valign="top">
-      <img src="https://github.com/user-attachments/assets/ab174c9b-2cac-4ca4-a82a-48ed5621e535" alt="Mobile View" width="100%" />
+    <td width="25%" valign="top">
+      <img src="https://github.com/user-attachments/assets/345698c1-2dfc-41a3-a10c-6597ae9957e8" alt="Mobile View – Top" width="100%" />
     </td>
-
-
-
+    <td width="25%" valign="top">
+      <img src="https://github.com/user-attachments/assets/ac048965-614b-48bd-928b-f2e409aa8c6f" alt="Mobile View – Bottom" width="100%" />
+    </td>
+  </tr>
+</table>" alt="Desktop View" width="100%" />
+    </td>
+    <td width="25%" valign="top">
+      <img src="https://github.com/user-attachments/assets/your-mobile-screenshot-1-id" alt="Mobile View – Top" width="100%" />
+    </td>
+    <td width="25%" valign="top">
+      <img src="https://github.com/user-attachments/assets/your-mobile-screenshot-2-id" alt="Mobile View – Bottom" width="100%" />
+    </td>
   </tr>
 </table>
