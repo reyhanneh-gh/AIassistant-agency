@@ -1,7 +1,7 @@
 # 👾 Responsive Website – Tailwind Practice Project  
 A sleek and modern landing page built using Tailwind CSS to showcase an AI assistant agency. This project explores utility-first styling, responsive layouts, and clean UI principles tailored for modern web experiences.
 
-🔗 **Live Demo** 🪄
+🔗 [Live Demo](https://meek-puffpuff-4924a3.netlify.app/) 🪄
 
 ---
 
