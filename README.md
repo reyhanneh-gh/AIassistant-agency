@@ -33,3 +33,17 @@ This landing page was developed as part of my journey into responsive web design
 **Date**: August 15, 2025  
 **Mentor**: Parsa Ghorbanian  
 **Purpose**: Hands-on practice with Tailwind CSS and responsive design principles
+
+<table>
+  <tr>
+    <td width="70%" valign="top">
+      <img src="https://github.com/user-attachments/assets/3cf3daa7-ebda-4b1b-a44d-58ac577aa625" alt="Desktop View" width="100%" />
+    </td>
+    <td width="30%" valign="top">
+      <img src="https://github.com/user-attachments/assets/ab174c9b-2cac-4ca4-a82a-48ed5621e535" alt="Mobile View" width="100%" />
+    </td>
+
+
+
+  </tr>
+</table>
